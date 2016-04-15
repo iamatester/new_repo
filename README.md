@@ -1,2 +1,3 @@
 # new_repo
-Мне нравится Алена!)
+Hello all!
+This repo for "Introduction to Software Testing" course!
